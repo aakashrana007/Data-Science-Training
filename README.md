@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This is where I document my journey through a 3
 This repository contains my daily progress, code snippets, and notes from the training. Follow along as I learn about data science concepts, tools, and techniques.
 
 <!--
-## Daily Progress
+## Daily Progress .
 
 ### Day 1
 - **introduction to Python**: Introduction to Python Basics
